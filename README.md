@@ -8,6 +8,6 @@ Plane Prototype: Your flying plane prototype should meet the following criteria:
 - Camera is beside the plane, not in front of it
 - Camera follows the plane
 
-[`Unity Play link for game`](https://play.unity.com/mg/other/car-prototype-6)  [`GitHub Pages link for game`](https://vasvi1203.github.io/Plane-Prototype/)
+[`Unity Play link for game`](https://play.unity.com/mg/other/plane-prototype-3)  [`GitHub Pages link for game`](https://vasvi1203.github.io/Plane-Prototype/)
 
 ![Thumbnail](https://github.com/vasvi1203/Plane-Prototype/blob/main/Thumbnail.png)
