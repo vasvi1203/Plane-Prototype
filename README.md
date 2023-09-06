@@ -1,8 +1,13 @@
 # CSCI 526 - Advanced Mobile Devices and Game Consoles
 ## Fall 2023
   
-Car Prototype: Your car should be drivable, capable of turning, and has a camera following from behind.  
+Plane Prototype: Your flying plane prototype should meet the following criteria:
+- The plane moves forward, not backward.
+- The plane moves at a reasonable speed.
+- The plane tilts with up/down arrows only, and nothing else 
+- Camera is beside the plane, not in front of it
+- Camera follows the plane
 
-[`Unity Play link for game`](https://play.unity.com/mg/other/car-prototype-6)  [`GitHub Pages link for game`](https://vasvi1203.github.io/Car-Prototype/)
+[`Unity Play link for game`](https://play.unity.com/mg/other/car-prototype-6)  [`GitHub Pages link for game`](https://vasvi1203.github.io/Plane-Prototype/)
 
-![Thumbnail](https://github.com/vasvi1203/Car-Prototype/blob/main/Thumbnail.png)
+![Thumbnail](https://github.com/vasvi1203/Plane-Prototype/blob/main/Thumbnail.png)
